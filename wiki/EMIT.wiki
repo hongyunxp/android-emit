@@ -2,9 +2,9 @@
 <font color="red"> unfortunately formatting and images are corrupt please download the document and presentation as pdf here:
 </font>
 
-http://nousefor.net/emit-epidemic-mobile-information-transfer-2/code/java/2011/03/attachment/emit/
+http://jonas-kress.de/download/emit/emit.pdf
 
-http://nousefor.net/emit-epidemic-mobile-information-transfer-2/code/java/2011/03/attachment/emit-impress/
+http://jonas-kress.de/download/emit/emit-impress.pdf
 
 
 
@@ -282,4 +282,3 @@ Emit nodes can create their own network infrastructure by connecting to peers th
 
 == Censorship free communication ==
 Communicating with emit can prevent regimes to censor information, because the data travels through spontaneously established pipes that are established between mobile peers and therefore no infrastructure or central servers are needed.
-

@@ -2,8 +2,8 @@
 <font color="red"> unfortunately formatting and images are corrupt please download the document and presentation as pdf here:
 </font>
 
- *http://jonas-kress.de/download/emit/emit.pdf
- *http://jonas-kress.de/download/emit/emit-impress.pdf
+ * http://jonas-kress.de/download/emit/emit.pdf
+ * http://jonas-kress.de/download/emit/emit-impress.pdf
 
 mirror:
 

@@ -7,7 +7,7 @@ http://jonas-kress.de/download/emit/emit-impress.pdf
 
 My professor didn’t like it, because I didn’t used his shitty framework…
 As this happened, my dream writing a master thesis and create the code for whole the project finally vanished.
-So if somebody is out there who is interested in this project and would donate, let me know (emit[-at-]xp.nousefor.net) and I will do it.
+So if somebody is out there who is interested in this project and would donate, let me know (emit-at-xp.nousefor.net) and I will do it.
 
 
 

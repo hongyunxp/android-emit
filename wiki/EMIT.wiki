@@ -10,9 +10,7 @@ mirror:
  * https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B4AVQJbCuSqTNDFiZTg4MjktMjRmNi00YzdiLWFkMGItZjEwYmY0Mjg1ZTA3&hl=en
  * https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B4AVQJbCuSqTMGY1ZTMwMWUtNDMwNi00Yzg5LTk3NjItYTI1NDc1NjczMTc0&hl=en
 
-My professor didn’t like it, because I didn’t used his shitty framework…
-As this happened, my dream writing a master thesis and create the code for whole the project finally vanished.
-So if somebody is out there who is interested in this project and would donate, let me know (emit-at-xp.nousefor.net) and I will do it.
+
 
 
 
